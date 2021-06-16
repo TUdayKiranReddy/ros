@@ -1,0 +1,3 @@
+Symlinking /home/solomon/ros/catkin_ws/devel/share/smb_control/cmake/smb_controlConfig-version.cmake
+Symlinking /home/solomon/ros/catkin_ws/devel/share/smb_control/cmake/smb_controlConfig.cmake
+Symlinking /home/solomon/ros/catkin_ws/devel/lib/pkgconfig/smb_control.pc

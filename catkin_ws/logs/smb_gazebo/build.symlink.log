@@ -1,0 +1,4 @@
+Symlinking /home/solomon/ros/catkin_ws/devel/share/smb_gazebo/cmake/smb_gazeboConfig.cmake
+Symlinking /home/solomon/ros/catkin_ws/devel/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake
+Symlinking /home/solomon/ros/catkin_ws/devel/lib/libodometry_source_plugin.so
+Symlinking /home/solomon/ros/catkin_ws/devel/lib/pkgconfig/smb_gazebo.pc

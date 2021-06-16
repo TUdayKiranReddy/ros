@@ -1,0 +1,1 @@
+/home/solomon/ros/catkin_ws/devel/.private/smb_description/lib/pkgconfig/smb_description.pc
