@@ -1,0 +1,12 @@
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./local_setup.sh
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./setup.bash
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./local_setup.zsh
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./cmake.lock
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./setup.zsh
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./setup.sh
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./env.sh
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./local_setup.bash
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/./_setup_util.py
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/solomon/ros/Workspaces/cleaner/devel/lib/pkgconfig/catkin_tools_prebuild.pc

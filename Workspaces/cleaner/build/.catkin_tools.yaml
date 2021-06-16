@@ -1,0 +1,6 @@
+devel_space: /home/solomon/ros/Workspaces/cleaner/devel
+install: false
+install_space: /home/solomon/ros/Workspaces/cleaner/install
+profile: default
+source_space: /home/solomon/ros/Workspaces/cleaner/src
+workspace: /home/solomon/ros/Workspaces/cleaner
